@@ -321,7 +321,7 @@ picture {
 /*Screen 292 - 425--------------------------------*/
 
 
-@media (min-width: 292px) and (max-width: 425px) {
+@media (min-width: 0px) and (max-width: 425px) {
 
   /*GENERAL*/
   .total-area {
